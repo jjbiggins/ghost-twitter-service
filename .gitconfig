@@ -1,0 +1,5 @@
+settings.ini
+*.ini
+.env
+.venv
+venv
